@@ -226,7 +226,7 @@ textarea {
     margin-left: 8px;
 }
 
-.container-img-nome {
+.container-img-name {
     display: flex;
     gap: 8px;
     color: var(--secondary-color);
